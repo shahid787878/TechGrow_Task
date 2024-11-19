@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shahid787878/TechGrow_Task.git/static/css/main.40d3dd06.css",
+    "main.js": "/shahid787878/TechGrow_Task.git/static/js/main.1d5cf878.js",
+    "static/js/453.7aa70a98.chunk.js": "/shahid787878/TechGrow_Task.git/static/js/453.7aa70a98.chunk.js",
+    "index.html": "/shahid787878/TechGrow_Task.git/index.html",
+    "main.40d3dd06.css.map": "/shahid787878/TechGrow_Task.git/static/css/main.40d3dd06.css.map",
+    "main.1d5cf878.js.map": "/shahid787878/TechGrow_Task.git/static/js/main.1d5cf878.js.map",
+    "453.7aa70a98.chunk.js.map": "/shahid787878/TechGrow_Task.git/static/js/453.7aa70a98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40d3dd06.css",
+    "static/js/main.1d5cf878.js"
+  ]
+}

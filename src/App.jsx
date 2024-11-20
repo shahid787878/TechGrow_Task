@@ -999,32 +999,32 @@ class App extends React.Component {
         <div className="owl-carousel owl-theme w-100 row  mx-auto  " id="owl-one">
 <div className="row-fluid bg-danger w-100">
 <div className="item">
-    <img alt="nn" src="https://images.pexels.com/photos/2873486/pexels-photo-2873486.jpeg?auto=compress&cs=tinysrgb&w=600" style={{height:'100vh'}}  srcset=""/>
+    <img alt="nn" src="https://images.pexels.com/photos/2873486/pexels-photo-2873486.jpeg?auto=compress&cs=tinysrgb&w=600" style={{height:'100vh'}}  srcSet=""/>
 </div>
 </div>
 <div className="row">
 <div className="item">
-<img alt="nn" src="https://images.pexels.com/photos/2866073/pexels-photo-2866073.jpeg?auto=compress&cs=tinysrgb&w=600" style={{height:'100vh'}}  srcset=""/>
+<img alt="nn" src="https://images.pexels.com/photos/2866073/pexels-photo-2866073.jpeg?auto=compress&cs=tinysrgb&w=600" style={{height:'100vh'}}  srcSet=""/>
 </div>
 </div>
 
 <div className="item">
-<img alt="nn" src="https://images.pexels.com/photos/189857/pexels-photo-189857.jpeg?auto=compress&cs=tinysrgb&w=600" style={{height:'100vh'}}  srcset=""/>
+<img alt="nn" src="https://images.pexels.com/photos/189857/pexels-photo-189857.jpeg?auto=compress&cs=tinysrgb&w=600" style={{height:'100vh'}}  srcSet=""/>
 </div>
 <div className="item">
-<img alt="nn" src="https://images.pexels.com/photos/3679525/pexels-photo-3679525.jpeg?auto=compress&cs=tinysrgb&w=600" style={{height:'100vh'}}  srcset=""/>
+<img alt="nn" src="https://images.pexels.com/photos/3679525/pexels-photo-3679525.jpeg?auto=compress&cs=tinysrgb&w=600" style={{height:'100vh'}}  srcSet=""/>
 </div>
 <div className="item">
-<img alt="nn" src="https://images.pexels.com/photos/1983036/pexels-photo-1983036.jpeg?auto=compress&cs=tinysrgb&w=600" style={{height:'100vh'}}  srcset=""/>
+<img alt="nn" src="https://images.pexels.com/photos/1983036/pexels-photo-1983036.jpeg?auto=compress&cs=tinysrgb&w=600" style={{height:'100vh'}}  srcSet=""/>
 </div>
 <div className="item">
-<img alt="nn" src="https://images.pexels.com/photos/2799785/pexels-photo-2799785.jpeg?auto=compress&cs=tinysrgb&w=600" style={{height:'100vh'}}  srcset=""/>
+<img alt="nn" src="https://images.pexels.com/photos/2799785/pexels-photo-2799785.jpeg?auto=compress&cs=tinysrgb&w=600" style={{height:'100vh'}}  srcSet=""/>
 </div>
 <div className="item">
-<img alt="nn" src="https://images.pexels.com/photos/69970/pexels-photo-69970.jpeg?auto=compress&cs=tinysrgb&w=600" style={{height:'100vh'}}  srcset=""/>
+<img alt="nn" src="https://images.pexels.com/photos/69970/pexels-photo-69970.jpeg?auto=compress&cs=tinysrgb&w=600" style={{height:'100vh'}}  srcSet=""/>
 </div>
 <div className="item">
-<img alt="nn" src="https://images.pexels.com/photos/450054/pexels-photo-450054.jpeg?auto=compress&cs=tinysrgb&w=600" style={{height:'100vh'}}  srcset=""/>
+<img alt="nn" src="https://images.pexels.com/photos/450054/pexels-photo-450054.jpeg?auto=compress&cs=tinysrgb&w=600" style={{height:'100vh'}}  srcSet=""/>
 </div>
 </div>
 </div></div></div>
@@ -1313,7 +1313,7 @@ class App extends React.Component {
         
 <div className="row h-100">
 <div className="item ">
-    <img src="https://images.pexels.com/photos/1082663/pexels-photo-1082663.jpeg?auto=compress&cs=tinysrgb&w=600" alt=""   style={{height:'100vh'}} srcset=""/>
+    <img src="https://images.pexels.com/photos/1082663/pexels-photo-1082663.jpeg?auto=compress&cs=tinysrgb&w=600" alt=""   style={{height:'100vh'}} srcSet=""/>
 </div>
 </div>
 <div className="row">
@@ -1330,16 +1330,16 @@ class App extends React.Component {
 
 
 <div className="item">
-    <img style={{height:'100vh'}} src="https://images.pexels.com/photos/307847/pexels-photo-307847.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" srcset=""/>
+    <img style={{height:'100vh'}} src="https://images.pexels.com/photos/307847/pexels-photo-307847.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" srcSet=""/>
 </div>
 <div className="item">
-    <img style={{height:'100vh'}} src="https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" srcset=""/>
+    <img style={{height:'100vh'}} src="https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" srcSet=""/>
 </div>
 <div className="item">
-    <img style={{height:'100vh'}} src="https://images.pexels.com/photos/799443/pexels-photo-799443.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" srcset=""/>
+    <img style={{height:'100vh'}} src="https://images.pexels.com/photos/799443/pexels-photo-799443.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" srcSet=""/>
 </div>
 <div className="item">
-    <img style={{height:'100vh'}} src="https://images.pexels.com/photos/752525/pexels-photo-752525.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" srcset=""/>
+    <img style={{height:'100vh'}} src="https://images.pexels.com/photos/752525/pexels-photo-752525.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" srcSet=""/>
 </div>
 </div>
   
@@ -1352,10 +1352,10 @@ class App extends React.Component {
 
 <div className="owl-carousel owl-theme  " id="owl-three">
 <div className="item">
-    <img style={{height:'100vh'}} src="https://images.pexels.com/photos/225157/pexels-photo-225157.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" srcset=""/> 
+    <img style={{height:'100vh'}} src="https://images.pexels.com/photos/225157/pexels-photo-225157.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" srcSet=""/> 
 </div>
 <div className="item">
-  <img style={{height:'100vh'}} src="https://images.pexels.com/photos/598917/pexels-photo-598917.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" srcset=""/>
+  <img style={{height:'100vh'}} src="https://images.pexels.com/photos/598917/pexels-photo-598917.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" srcSet=""/>
 </div>
 </div>
 </div>
